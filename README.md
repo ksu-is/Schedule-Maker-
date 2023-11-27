@@ -1,2 +1,3 @@
 # Schedule-Maker-
 A project based on making a Schedule
+The program is a simple schedule management system. It utilizes a Schedule class with methods for adding, viewing, and deleting events. Users interact with the program through a command-line interface in the main() function, where they can add events by specifying a time and description, view the entire schedule, delete events by providing the time and description, or exit the program. The schedule is stored internally in a dictionary, organized by time slots. This program offers a basic yet functional way to manage and interact with a schedule through the terminal.
