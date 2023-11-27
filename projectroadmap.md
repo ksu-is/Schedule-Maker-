@@ -1,4 +1,4 @@
 - [x] Create repository
 - [x] Create README
 - [x] Create project roadmap
-- [x] Search for related repository and clone it
+
