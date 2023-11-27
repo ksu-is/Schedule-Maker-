@@ -1,4 +1,6 @@
 - [x] Create repository
 - [x] Create README
 - [x] Create project roadmap
-
+- [ ] Get started on the on the Schedule Maker
+- [ ] Look over an revise thew schedule maker
+- [ ] Add any of the files that helped you create this project
